@@ -1,14 +1,13 @@
 <div align="center">
 
-<img width="100%" alt="Sanjay Gupta · Full-Stack Software Engineer · Web, Android & Backend" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:4F46E5,100:7C3AED&height=210&section=header&text=Sanjay%20Gupta&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Web%2C%20Android%20%26amp%3B%20Backend&descSize=18&descAlignY=58&animation=fadeIn" />
-
-<a href="https://guptasanjay.com.np"><img alt="Tech Lead at Duleko · building FLITO · joining EPAM Systems in January 2027" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=640&height=40&lines=Tech+Lead+at+Duleko+%C2%B7+web+%2B+Android+on+Google+Play;Building+FLITO+%C2%B7+freight+matching+for+Nepal;629+automated+tests+%C2%B7+business+rules+in+Postgres;Joining+EPAM+Systems+%C2%B7+January+2027" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/hero-dark.svg" /><img width="100%" alt="Sanjay Gupta, Full-Stack Software Engineer: Tech Lead at Duleko, building FLITO, joining EPAM Systems in January 2027" src="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/hero-light.svg" /></picture>
 
 <p>
-  <a href="https://guptasanjay.com.np"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-guptasanjay.com.np-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sanjay1621/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sanjay1621-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" /></a>
-  <a href="https://leetcode.com/Sanjaycodes09/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Sanjaycodes09-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:sahausanjay99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahausanjay99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://guptasanjay.com.np"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-portfolio-dark.svg" /><img height="36" alt="Portfolio" src="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-portfolio-light.svg" /></picture></a>
+  <a href="https://guptasanjay.com.np/resume"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-resume-dark.svg" /><img height="36" alt="Resume" src="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-resume-light.svg" /></picture></a>
+  <a href="https://www.linkedin.com/in/sanjay1621/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-linkedin-dark.svg" /><img height="36" alt="LinkedIn" src="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-linkedin-light.svg" /></picture></a>
+  <a href="https://leetcode.com/Sanjaycodes09/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-leetcode-dark.svg" /><img height="36" alt="LeetCode" src="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-leetcode-light.svg" /></picture></a>
+  <a href="mailto:sahausanjay99@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-email-dark.svg" /><img height="36" alt="Email" src="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/btn-email-light.svg" /></picture></a>
 </p>
 
 </div>
@@ -17,16 +16,7 @@
 
 I'm a full-stack software engineer from **Siyari, Rupandehi, Nepal**, finishing a B.E. in Computer Science Engineering at **Chitkara University** (CGPA 8.5, graduating August 2027). I build products for Nepal end to end, from React and React Native screens to Node.js and Supabase backends and PostgreSQL and MongoDB data models, and ship them to the web and to Android.
 
-```ts
-const sanjay = {
-  role:      "Full-Stack Software Engineer · Web, Android & Backend",
-  now:       ["Tech Lead @ Duleko", "Builder @ FLITO"],
-  next:      "AI Native Software Engineering Intern @ EPAM Systems · Jan 2027",
-  education: "B.E. Computer Science Engineering · Chitkara University · 2027",
-  ships:     ["Web", "Android (Capacitor, React Native)"],
-  cares:     ["rules enforced in the database", "privacy by design", "tests in CI", "Nepali-first UX"],
-};
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/about-dark.svg" /><img width="100%" alt="sanjay.ts: role Full-Stack Software Engineer; now Tech Lead at Duleko and builder of FLITO; next AI Native Software Engineering Intern at EPAM Systems from January 2027; principles: business rules live in the database, privacy by design, tests run in CI on every push" src="https://raw.githubusercontent.com/Sanjaycodes019/Sanjaycodes019/main/assets/about-light.svg" /></picture>
 
 ## Right now
 
